@@ -1,0 +1,2 @@
+# tryInit
+try init
