@@ -1,2 +1,0 @@
-# tryInit
-try init
